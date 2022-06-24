@@ -26,6 +26,11 @@ export default function Index() {
             Remix Docs
           </a>
         </li>
+        <li>
+          <a target="_blank" href="https://blog.ivanbuncic.com" rel="noreferrer">
+            Chabun's Dev Tips
+          </a>
+        </li>
       </ul>
     </div>
   );
